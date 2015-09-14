@@ -5,7 +5,7 @@ layout: post
 ---
 Hello World
 
-This is my first blog post. Looking forward for a great blogging journey.
+This is my first blog post on github pages. Looking forward for a great blogging journey.
 
-Thank you 
+Thank you
 Mohit Bhatia
