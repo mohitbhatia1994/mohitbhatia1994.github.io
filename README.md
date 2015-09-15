@@ -1,2 +1,2 @@
-#mohitbhati.me
+#MohitBhatia.me
 [Personal Website] (http://mohitbhatia.me)
