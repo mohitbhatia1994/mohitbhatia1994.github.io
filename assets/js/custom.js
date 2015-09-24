@@ -128,10 +128,6 @@
 			return pattern.test(emailAddress);
 		};
 
-		/* ---------------------------------------------- /*
-		 * Contact form ajax
-		/* ---------------------------------------------- */
-
 		$('#contact-form').submit(function(e) {
 
 			e.preventDefault();
