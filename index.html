@@ -1,5 +1,5 @@
 <!--
-    	  __  __       _     _ _     ____  _           _   _       
+      __  __       _     _ _     ____  _           _   _
 	 |  \/  |     | |   (_) |   |  _ \| |         | | (_)      
 	 | \  / | ___ | |__  _| |_  | |_) | |__   __ _| |_ _  __ _ 
 	 | |\/| |/ _ \| '_ \| | __| |  _ <| '_ \ / _` | __| |/ _` |
@@ -19,6 +19,7 @@
 	<link href="assets/css/simple-line-icons.css" rel="stylesheet" media="screen">
 	<link href="assets/css/animate.css" rel="stylesheet">
 	<link href="assets/css/style.css" rel="stylesheet" media="screen">
+    <link href="assets/css/background.css" rel="stylesheet">
    	<script src="assets/js/modernizr.custom.js"></script>
    	<!-- Hotjar Tracking Code for http://www.mohitbhatia.me -->
 	<script>
@@ -31,6 +32,7 @@
 	        a.appendChild(r);
 	    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
 	</script>
+	<script src="assets/js/interactiveBackground.js"></script>
 </head>
 <body>
 	<div id="preloader">
@@ -40,8 +42,9 @@
 	<!-- Home start -->
 	<section id="home" class="pfblock-image screen-height">
         <div class="home-overlay"></div>
-	<div class="intro">
-		<div class="start">Hello, my name is Mohit Bhatia and I am a</div>
+        <canvas id="demo-canvas"></canvas>
+        <div class="intro">
+		<div class="start large-header">Hello, my name is Mohit Bhatia and I am a</div>
 		<h1>Full Stack Web Developer</h1>
 		<div class="start">creating modern and responsive Web Applications</div>
 	</div>
