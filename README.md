@@ -1,2 +1,2 @@
 #MohitBhatia.me
-[My Personal Website] (http://mohitbhatia.me)
+[My Personal Website] (http://m9a.me)
